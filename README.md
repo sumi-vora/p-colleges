@@ -10,3 +10,4 @@
 - Angela Zhou
 - Sonya Deng
 - Anjali Nuggehalli
+- Sumi Vora
